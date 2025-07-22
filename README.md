@@ -54,8 +54,9 @@ Customer satisfaction remains positive, with an average review score of 4.1 out 
 
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/b19dedf1-b00d-4d15-9291-b2380ce96f11" />
 
+---
 
-### Suggested Next Steps:
+## Recommendations:
 - **Delivery Optimization:** Focus on improving delivery time in high-delay regions.
 - **Customer Segmentation:** Further explore customer behaviors per region or category to tailor marketing strategies.
 - **Product Mix Analysis:** Deep-dive into underperforming categories with high returns or low review scores to identify improvement opportunities.
